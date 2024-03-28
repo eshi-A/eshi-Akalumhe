@@ -2,7 +2,18 @@
   <h1>Eshilama Akalumhe Favour <a href="https://ibb.co/yp4fPRq">
     <img src="https://i.ibb.co/tzLmKhD/professional-picture.jpg" alt="professional-picture" width = "100px" height = "100px">
   </a> </h1>
+
+  <div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    
+  <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook Badge"/>
+  
 </div>
+</div>
+
+
 <div> 
   <h2>About Me</h2>
   <p>My name is Eshilama Akalumhe. I am a Software Engineering Student with a Mechatronics Minor at the University of Calgary. 
