@@ -4,14 +4,20 @@
   </a> </h1>
 
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    
-  <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook Badge"/>
+  <a href = "mailto:eshilama.akalumhe@ucalagry.ca">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook Badge"/>
+  </a>
+      
+  <a href = "mailto:eshilama.akalumhe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   
-</div>
-</div>
+  <a href = "https://www.linkedin.com/in/eshilama-akalumhe-855651214/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn         Badge"/>
+  </a> 
+  </div>
+  
+  </div>
 
 
 <div> 
