@@ -96,41 +96,59 @@
   </div>
 </div>
 
-### 💼 Past Work
+<div id="past-work">
+  <h2 align = "right" >Past Work</h2>
 
-#### Software Developer — MIND, University of Calgary (2024 – Present)
-At MIND ((Mechatronics Integration of Neural Dynamics), I develop software that bridges neuroscience and engineering to improve accessibility and neurofeedback research.
+  <div class="role">
+    <h4>Software Developer — MIND, University of Calgary (2024 – Present)</h4>
+    <p>
+      At MIND (Motor Impairment and Neuroplasticity Development Lab), I develop software that bridges neuroscience and engineering 
+      to improve accessibility and neurofeedback research.
+    </p>
+    <ul>
+      <li>Designed and implemented a real-time EEG visualization system using <b>PyQt5</b>, <b>PyQtGraph</b>, and the <b>BrainFlow SDK</b>, 
+      enabling synchronized multi-channel (8+) waveform, FFT, and PSD displays with sub-300 ms latency.</li>
+      <li>Applied digital signal processing techniques with <b>NumPy</b> and <b>SciPy</b> to filter and analyze EEG data, 
+      reducing electrical and motion noise by more than 40%.</li>
+      <li>Built an interactive brain-controlled game that translates alpha-wave activity into gameplay feedback, 
+      achieving over 90% signal-to-action accuracy in test sessions.</li>
+      <li>Collaborated with neuroscientists and engineers to create software interfaces that support real-time 
+      cognitive-state recognition and therapeutic interaction design.</li>
+    </ul>
+    <p><b>Impact:</b> Enabled researchers and clinicians to visualize, test, and interact with brain activity in real time—advancing the lab’s 
+    work on neuroadaptive feedback and rehabilitation technologies.</p>
+  </div>
 
-- Designed and implemented a real-time EEG visualization system using **PyQt5**, **PyQtGraph**, and the **BrainFlow SDK**, enabling synchronized multi-channel (8+) waveform, FFT, and PSD displays with sub-300 ms latency.  
-- Applied digital signal processing techniques with **NumPy** and **SciPy** to filter and analyze EEG data, reducing electrical and motion noise by more than 40%.  
-- Built an interactive brain-controlled game that translates alpha-wave activity into gameplay feedback, achieving over 90% signal-to-action accuracy in test sessions.  
-- Collaborated with neuroscientists and engineers to create software interfaces that support real-time cognitive-state recognition and therapeutic interaction design.  
 
-**Impact:** Enabled researchers and clinicians to visualize, test, and interact with brain activity in real time—advancing the lab’s work on neuroadaptive feedback and rehabilitation technologies.
+  <div class="role">
+    <h4>Engineering Intern — PriVida Power Ltd. (May – Aug 2021)</h4>
+    <p>
+      Joined a renewable-energy engineering team focused on optimizing solar performance monitoring and quality assurance.
+    </p>
+    <ul>
+      <li>Conducted performance and durability testing on solar panels and inverters, identifying inefficiencies that reduced defects by 10%.</li>
+      <li>Automated energy-output reporting pipelines using <b>Power BI</b> and <b>Excel VBA</b>, improving data accuracy by 20% and 
+      eliminating manual reporting delays.</li>
+      <li>Drafted technical test and validation reports summarizing stress-test results, efficiency trends, and recommendations for internal teams.</li>
+      <li>Collaborated with electrical engineers and data analysts to standardize QA metrics and streamline performance-monitoring workflows.</li>
+    </ul>
+    <p><b>Impact:</b> Improved product reliability and established data-driven reporting processes that informed equipment procurement and maintenance decisions.</p>
+  </div>
 
----
-
-#### Engineering Intern — PriVida Power Ltd. (May – Aug 2021)
-Joined a renewable-energy engineering team focused on optimizing solar performance monitoring and quality assurance.
-
-- Conducted performance and durability testing on solar panels and inverters, identifying inefficiencies that reduced defects by 10%.  
-- Automated energy-output reporting pipelines using **Power BI** and **Excel VBA**, improving data accuracy by 20% and eliminating manual reporting delays.  
-- Drafted technical test and validation reports summarizing stress-test results, efficiency trends, and improvement recommendations for internal engineering use.  
-- Collaborated with electrical engineers and data analysts to standardize QA metrics and streamline performance-monitoring workflows.  
-
-**Impact:** Improved product reliability and established data-driven reporting processes that informed equipment procurement and maintenance decisions.
-
----
-
-#### Computer Science Tutor — Varsity Tutors (Nov 2023 – Present)
-Provide personalized tutoring to undergraduate and high-school students in computer-science fundamentals and applied programming.
-
-- Taught programming in **Java**, **Python**, and **C/C++**, emphasizing algorithmic thinking, debugging, and software-design principles.  
-- Created interactive lesson plans and small projects aligned with each student’s learning goals—improving academic performance by an average of 25%.  
-- Used data-driven progress tracking and assessment analytics to tailor instruction, helping students strengthen weak areas in data structures and discrete math.  
-- Maintained a 4.8/5 tutor rating, recognized for clarity, patience, and mentorship style.  
-
-**Impact:** Helped students transform abstract programming concepts into real-world problem-solving skills while fostering confidence and curiosity in computing.
+  <div class="role">
+    <h4>Computer Science Tutor — Varsity Tutors (Nov 2023 – Present)</h4>
+    <p>
+      Provide personalized tutoring to undergraduate and high-school students in computer-science fundamentals and applied programming.
+    </p>
+    <ul>
+      <li>Taught programming in <b>Java</b>, <b>Python</b>, and <b>C/C++</b>, emphasizing algorithmic thinking, debugging, and software design principles.</li>
+      <li>Created interactive lesson plans and small projects aligned with each student’s learning goals—improving academic performance by an average of 25%.</li>
+      <li>Used data-driven progress tracking and assessment analytics to tailor instruction, helping students strengthen weak areas in data structures and discrete math.</li>
+      <li>Maintained a 4.8/5 tutor rating, recognized for clarity, patience, and mentorship style.</li>
+    </ul>
+    <p><b>Impact:</b> Helped students transform abstract programming concepts into real-world problem-solving skills while fostering confidence and curiosity in computing.</p>
+  </div>
+</div>
 
 
 <p align="center">
