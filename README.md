@@ -96,6 +96,65 @@
   </div>
 </div>
 
+<div id="projects">
+  <h3 align = "right">Projects</h3>
+
+  <!-- Project 1: Real-Time EEG Visualization System -->
+  <div class="project">
+    <h4>Real-Time EEG Visualization System — MIND, UCalgary (2024 – Present)</h4>
+    <p>
+      Developed a real-time EEG visualization tool that displays multi-channel waveforms, FFT, and PSD data with sub-300 ms latency. 
+      Built with <b>PyQt5</b>, <b>PyQtGraph</b>, and the <b>BrainFlow SDK</b>. Applied DSP techniques using <b>NumPy</b> and <b>SciPy</b> 
+      to reduce electrical and motion noise by 40%, enabling real-time neurofeedback experiments.
+    </p>
+    <p>
+      <img src="https://i.ibb.co/tzLmKhD/professional-picture.jpg" alt="EEG Visualization Interface" width="300" height="200">
+    </p>
+    <p>
+      <a href="https://demo-link.com/eeg" target="_blank">View Demo</a> | 
+      <a href="https://source-code-link.com/eeg" target="_blank">View Source Code</a>
+    </p>
+    <hr>
+  </div>
+
+  <!-- Project 2: Brain-Controlled Interactive Game -->
+  <div class="project">
+    <h4>Brain-Controlled Interactive Game — MIND, UCalgary (2024 – Present)</h4>
+    <p>
+      Created a game where alpha-wave activity controls gameplay, achieving 90% signal-to-action accuracy. 
+      Integrated EEG data processing, cognitive-state recognition, and real-time visual feedback. 
+      Developed in <b>Python</b> with <b>PyQt5</b> and <b>Pygame</b>.
+    </p>
+    <p>
+      <img src="https://i.ibb.co/tzLmKhD/professional-picture.jpg" alt="Brain-Controlled Game Interface" width="300" height="200">
+    </p>
+    <p>
+      <a href="https://demo-link.com/game" target="_blank">View Demo</a> | 
+      <a href="https://source-code-link.com/game" target="_blank">View Source Code</a>
+    </p>
+    <hr>
+  </div>
+
+  <!-- Project 3: EEG Signal Processing Pipeline -->
+  <div class="project">
+    <h4>EEG Signal Processing Pipeline — MIND, UCalgary (2024 – Present)</h4>
+    <p>
+      Designed a processing pipeline to clean and analyze multi-channel EEG signals for neurofeedback studies. 
+      Reduced noise artifacts by 40% using digital filters and statistical signal processing with <b>NumPy</b> and <b>SciPy</b>. 
+      Supported downstream applications like real-time visualization and cognitive-state-based game interaction.
+    </p>
+    <p>
+      <img src="https://i.ibb.co/tzLmKhD/professional-picture.jpg" alt="EEG Signal Pipeline Interface" width="300" height="200">
+    </p>
+    <p>
+      <a href="https://demo-link.com/pipeline" target="_blank">View Demo</a> | 
+      <a href="https://source-code-link.com/pipeline" target="_blank">View Source Code</a>
+    </p>
+
+  </div>
+
+</div>
+
 <div id="past-work">
   <h2 align = "right" >Past Work</h2>
 
@@ -118,8 +177,7 @@
     <p><b>Impact:</b> Enabled researchers and clinicians to visualize, test, and interact with brain activity in real time—advancing the lab’s 
     work on neuroadaptive feedback and rehabilitation technologies.</p>
   </div>
-
-
+	<hr>
   <div class="role">
     <h4>Engineering Intern — PriVida Power Ltd. (May – Aug 2021)</h4>
     <p>
@@ -134,7 +192,7 @@
     </ul>
     <p><b>Impact:</b> Improved product reliability and established data-driven reporting processes that informed equipment procurement and maintenance decisions.</p>
   </div>
-
+  <hr>
   <div class="role">
     <h4>Computer Science Tutor — Varsity Tutors (Nov 2023 – Present)</h4>
     <p>
@@ -150,11 +208,11 @@
   </div>
 </div>
 
-
 <p align="center">
   <i>"Technology should make humans feel more human."</i><br>
   <small>— Eshilama Akalumhe</small>
 </p>
+
 
 
 
